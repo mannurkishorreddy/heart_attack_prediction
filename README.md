@@ -1,2 +1,2 @@
-# heart_attack_prediction
+# Heart Attack Prediction
 Analyzing Key Factors for Predicting Heart Disease Risk
